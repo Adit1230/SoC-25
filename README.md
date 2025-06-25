@@ -1,0 +1,1 @@
+Over the course of this project, I have learnt about arrays, sorting, time complexity, space complexity, two pointers method, number theory, modular arithmetic, pattern matching, recursion,  classes, pointers, linked lists, stacks, queues and bitwise operations.
